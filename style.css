@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+    display: inline-block; 
+}
+.logo{
+    width: 40%;
+    display: inline-block;
+    position: relative;
+    top: 16px;
+    left: 903px;
+    bottom: 152px;
+}
+.logo img{
+    width: 90px;
+    position: relative;
+}
+nav{
+    width: 58%;
+    display: inline-block;
+}
+nav ul{
+    display: inline-block;
+    width: 90%; 
+    text-align: end;
+    position: relative;
+    top: 25px;
+}
+nav li{
+    display: inline;
+    padding: 1%;
+}
+
+/*Css do Section*/
+    section{
+        height: 300px;
+        background-image: url("scarpelli22.jpg");
+        background-position: 0px 1100px;
+;
+    height: 500px;
+    display: inline-block;
+    width: 100%;
+    }
+    figure{
+    height: 200px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    }
+    span{ 
+    height: 200px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin-top:0%;
+    position: relative;
+        left: 405px;   
+    }
+    figure img{
+        width: 450px;
+
+    }
+    /*Article vídeos*/ 
+article { 
+    height: 300px;
+    background-image: url("scarpelli.jpg");
+    background-position: 0px 1100px;
+/*     background-color: rgb(0, 0, 0); */
+}
+aside{
+    margin: 15px;
+    height: 80%;
+    position: relative;
+    top: 15px;
+    width: 30%;
+    left: 15px;
+    display: inline-block;
+    color:rgb(155, 0, 176);
+}
+h3{
+    text-align: center;
+    color:rgb(155, 0, 176);
+}
+b{
+    width: 100%;
+    position: relative; 
+    left: 8px; 
+}
+iframe{
+    width: 350px;
+    height: 180px;
+}
+footer{
+    height: 450px;
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+}
+.logoFo{
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 50px;
+    width:100%;
+    display: inline-block;
+    background-color:rgb(0, 0, 0);
+    position: relative;
+
+}
+.listaFo{
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width:30%;
+    display: inline-block;
+
+}
+.contatoFo{
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width:30%;
+    display: inline-block;
+    background-color: rgb(36, 146, 241);
+
+}
+.logoFo2{
+    height: 210px;
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+}
+.imgFigueirense{
+    width: 45%;
+    position: relative;
+}
+.imgRedes{
+    width: 100%;
+    position: relative;
+    bottom: 80px
+}
+.listaFo2{
+    height: 210px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(172, 35, 35);
+}
+
+.listaFo2 ul{
+list-style-type: none;  
+}
+
+.listaFo2 li{
+    margin-top:10px;
+    font-size: 15px;
+    position: relative; 
+    left: 85px;
+    top: 25px;
+}
+
+
+h5{
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+}
+.contatoFo2{
+    height: 120px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(0, 0, 0);
+}
+.contatoFo3{
+    height: 60px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(0, 0, 0); 
+}
+
+
+
+
